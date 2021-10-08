@@ -2,10 +2,15 @@
 
 }
 
+
+
 #main-banner {
     margin: 0;
   border: thin solid black;
-  background-color: rgb(227, 115, 222)
+  background-color: rgb(227, 115, 222);
+  background-image: url(Fotos/h.jpg);
+
+
 }
 
 #main-banner > h1 {
@@ -17,7 +22,9 @@
   color: black;
 }
 
-#main-banner > span > a {
+
+
+#main-banner > a {
   float: right;
 }
 
