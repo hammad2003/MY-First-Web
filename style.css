@@ -5,17 +5,20 @@
 
 
 #main-banner {
-    margin: 0;
+  margin: 0;
   border: thin solid black;
   background-color: rgb(227, 115, 222);
-  background-image: url(Fotos/h.jpg);
+  background-image: url(Fotos/dddd.jpg);
+  padding: 1em;
+  padding-bottom: 0em;
+  background-size: cover;
 
 
 }
 
 #main-banner > h1 {
   padding-left: 2em;
-  color: white;
+  color: grey;
 }
 
 #main-banner > p {
